@@ -1,0 +1,2 @@
+-- Data is loaded by backend/seed.js from the public Sample Superstore CSV.
+-- Run: cd backend && npm install && npm run seed
